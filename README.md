@@ -9,7 +9,7 @@ ZILLE KIBRIYA
 CAREER OBJECTIVE
 
 Motivated Computer Science Engineering student and aspiring Software Engineer with strong skills in programming, cloud computing, AI, and cybersecurity. Passionate about building innovative applications and continuously learning new technologies to contribute effectively to organizational growth.
-
+m
 EDUCATION
 
 Bachelor of Engineering (B.E) – Computer Science Engineering
